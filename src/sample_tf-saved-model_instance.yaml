@@ -1,0 +1,25 @@
+type: object
+properties:
+  ClientID:
+    nullable: true
+    type: string
+  income:
+    nullable: true
+    type: number
+  age:
+    nullable: true
+    type: number
+  loan:
+    nullable: true
+    type: number
+required:
+- ClientID
+- income
+- age
+- loan
+nullable: true
+example:
+  ClientID: '1027.0'
+  income: 45898.51352
+  age: 41.46888524
+  loan: 4005.816148

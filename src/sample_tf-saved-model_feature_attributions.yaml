@@ -1,0 +1,10 @@
+type: object
+properties:
+  ClientID:
+    type: number
+  income:
+    type: number
+  age:
+    type: number
+  loan:
+    type: number
